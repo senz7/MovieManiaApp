@@ -11,7 +11,7 @@ export const Header = () => {
             href=""
             className="mr-5 text-slate-300 font-semibold hover:text-slate-200"
           >
-            Movies App
+            Movie Mania
           </LinkButton>
         </Logo>
       </div>
@@ -19,19 +19,19 @@ export const Header = () => {
       <div>
         <LinkButton
           href=""
-          className="mr-5 text-slate-300 font-medium hover:text-slate-200 text-lg hover:underline underline-offset-4"
+          className="mr-5 text-slate-300 font-semibold hover:text-slate-200 text-lg hover:underline underline-offset-4"
         >
           Home
         </LinkButton>
         <LinkButton
           href=""
-          className="mr-5 text-slate-300 font-medium hover:text-slate-200 text-lg hover:underline underline-offset-4"
+          className="mr-5 text-slate-300 font-semibold hover:text-slate-200 text-lg hover:underline underline-offset-4"
         >
           Movies
         </LinkButton>
         <LinkButton
           href=""
-          className="mr-5 text-slate-300 font-medium hover:text-slate-200 text-lg hover:underline underline-offset-4"
+          className="mr-5 text-slate-300 font-semibold hover:text-slate-200 text-lg hover:underline underline-offset-4"
         >
           My list
         </LinkButton>
